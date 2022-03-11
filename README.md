@@ -10,3 +10,5 @@ Concepts used:
 <li>Randomization</li>  
 <li>If statements</li>  
 </ul>
+
+-Day 4 of the #100daysofcode challenge
